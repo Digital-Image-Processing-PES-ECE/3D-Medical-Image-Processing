@@ -35,14 +35,16 @@ https://www.kaggle.com/datasets/shakilrana/brats-2023-adult-glioma
 ### Outputs:
 * Important intermediate steps
   Histogram equalization:
-  ![image](https://github.com/user-attachments/assets/76be641b-07ff-4eda-b9e6-00fcedc1ae1e)
+  ![image](https://github.com/user-attachments/assets/c37617af-59b4-4912-81fd-b82836616e37)
+
   Edge detection:
-  ![image](https://github.com/user-attachments/assets/356e7479-3705-479e-9471-5c97266b75c4)
+  ![image](https://github.com/user-attachments/assets/9793a7ac-64dc-45ef-8870-3f785d2e5aac)
 
   
 * Final output images
-  ![image](https://github.com/user-attachments/assets/30a9260e-4ad8-4ae5-bcef-2c96b42f1312)
+  ![image](https://github.com/user-attachments/assets/d3f75a9f-7a65-4083-ae97-1219e2de9bdb)
 
+  
 
 ### References:
 1. https://youtu.be/UIgaLDgb2fY?si=VWq_k6gcOHLDCK_Z
